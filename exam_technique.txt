@@ -10,7 +10,7 @@ General guidence:
   Be coherent and make your points easy to follow.
   Do not write more than you need to.
 
-Question 1:
+Section A:
 
   A.i) [4]
     -Two performance skills to play a character in a given extract.
@@ -59,3 +59,6 @@ Question 1:
       >Use comprehensive detail and sustained focus on the question throughout
       >Develop examples well and ensure they fully support the response
       >Use technical and subject-specific language confidently
+
+Section B:
+  A) [6] 10 mins
