@@ -1,0 +1,61 @@
+Key:
+  '[n]' - number of marks, where n is a whole number
+  '-' - indicates that this is what the question will look like
+  '{blah blah blah}' - extra information (usually inside brackets or in an example)
+
+General guidence:
+  Show off as much of what you know and can do.
+  Show you have an understanding of the text (even if you do not).
+  Always use examples.
+  Be coherent and make your points easy to follow.
+  Do not write more than you need to.
+
+Question 1:
+
+  A.i) [4]
+    -Two performance skills to play a character in a given extract.
+    Identify two different techniques and link an explaination for what event causes the character to react in this way (for example, Anna would use a gesture of welcome (1) when Osip enters(1)).
+    The explaination does not have to be in full detail and it does not need to go in depth about the character's intentions, it just has to be a short explaination of why it is done (at an extremely basic level).
+  A.ii) [6]
+    -Three performance skills to play a character, providing reasons.
+    Suggest three different techniques and link an appropriate reason for why you would do this (for example {in a question about Osip making the most of his situation} use of stillness (1) to indicate attitude (1)).
+    Use the format I would use X {a performance technique} to demonstrate/indicate/reinforce/... Y {what the character feels, linking to their emotions}.
+    Think about how the character feels as if they were a real person.
+
+  B.i) [9]
+    -One production element (of a list) to bring the given extract to life.
+    Keep the audience as the central focus for the answer.
+    Reference the context of the piece, both in which it was created and performed (for Government Inspector, just mention something about the Emperor of Russia approving it or that it was daring), chosing a production element which reflects this.
+    There will be three choices out of a potential six production elements (which you should know).
+    Mention the reason for which you have done this, but it has to be directly linked to the audience in order to provide them with a better experience.
+    TO GET FULL MARKS:
+      >Demonstrate comprehensive and balanced knowledge and of the chosen element
+      >Be coherent, detailed and focused on the question in your response
+      >Use well developed examples supported by reasons which connect completely to the question
+      >Embed reference to context which supports the response, demonstrating complete and confident understanding
+  B.ii) [12] 20 mins (25 extra time)
+    -Three given performance skills for the performer to play a given character, displaying a given emotion to the audience in the extract and the complete play.
+    Demonstrate a clear understanding of how a director interacts with a performer in a specific role and how you (as a director) can make decisions about characterisation.
+    Show an understanding based on the complete text.
+    You MUST consider each given performance skill in detail.
+    You will be given three performance skills to write about, being one vocal skill, one physical skill, and stage directions and stage space.
+    TO GET FULL MARKS:
+      >Demonstrate comprehensive knowledge and understanding of the ways a director might explore and develop the use of the given skills
+      >Show assured knowledge and understanding of how the given skills are used in performance to communicate with the audience
+      >Detail your response highly, with a focus on the question and a balanced consideration of all of the elements
+      >Use examples which are well developed and which fully support your response
+      >Show comprehensive knowledge of the entire text
+
+  C) [14] 23 mins (28 extra time)
+    -Use one production element (of a list) to enhance the production of the given extract for the audience
+    Discuss how the element would be used to enhance the production of the given extract.
+    Make decisions on what aspects of the element you would like to use, then you may:
+      * Give reasons for the decisions and the intention regarding the audience
+      * Give evidence that they create setting or character
+      * Demonstrate understanding of the use of the aspects of the element to create setting or character
+    TO GET FULL MARKS:
+      >Demonstrate assured knowledge of the ways a designer might explore and develop the chosen element
+      >Show confidence in knowledge and understanding of how the chosen element is used in performance in order to enhance the audience's experience
+      >Use comprehensive detail and sustained focus on the question throughout
+      >Develop examples well and ensure they fully support the response
+      >Use technical and subject-specific language confidently
